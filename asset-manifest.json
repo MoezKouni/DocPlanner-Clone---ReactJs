@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DocPlanner-Clone---ReactJs/static/css/main.3f1a6204.chunk.css",
+    "main.js": "/DocPlanner-Clone---ReactJs/static/js/main.9bfa4f7a.chunk.js",
+    "main.js.map": "/DocPlanner-Clone---ReactJs/static/js/main.9bfa4f7a.chunk.js.map",
+    "runtime~main.js": "/DocPlanner-Clone---ReactJs/static/js/runtime~main.d1841817.js",
+    "runtime~main.js.map": "/DocPlanner-Clone---ReactJs/static/js/runtime~main.d1841817.js.map",
+    "static/js/2.b9a36bca.chunk.js": "/DocPlanner-Clone---ReactJs/static/js/2.b9a36bca.chunk.js",
+    "static/js/2.b9a36bca.chunk.js.map": "/DocPlanner-Clone---ReactJs/static/js/2.b9a36bca.chunk.js.map",
+    "index.html": "/DocPlanner-Clone---ReactJs/index.html",
+    "precache-manifest.37a626668c0a4fb8818a168fd9963405.js": "/DocPlanner-Clone---ReactJs/precache-manifest.37a626668c0a4fb8818a168fd9963405.js",
+    "service-worker.js": "/DocPlanner-Clone---ReactJs/service-worker.js",
+    "static/css/main.3f1a6204.chunk.css.map": "/DocPlanner-Clone---ReactJs/static/css/main.3f1a6204.chunk.css.map",
+    "static/media/Stats.css": "/DocPlanner-Clone---ReactJs/static/media/bg.c29854ac.png",
+    "static/media/doctors.png": "/DocPlanner-Clone---ReactJs/static/media/doctors.120076c7.png",
+    "static/media/logo.svg": "/DocPlanner-Clone---ReactJs/static/media/logo.f70458ad.svg",
+    "static/media/patients.png": "/DocPlanner-Clone---ReactJs/static/media/patients.82d323de.png"
+  }
+}
