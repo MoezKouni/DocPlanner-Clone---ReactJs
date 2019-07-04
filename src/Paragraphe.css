@@ -1,0 +1,14 @@
+.row-paragraphe{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-paragraphe{
+    color: rgb(138, 137, 137);
+    font-weight: 400;
+    padding: 0px;
+}
+.paragraphe-container{
+    margin-bottom: 60px;
+}

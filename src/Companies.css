@@ -1,0 +1,34 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px 23px;
+    align-items: flex-start;
+}
+
+h1{
+    flex: 1 0 0;
+    font-size: 30px;
+    color: #00bfa5;
+    font-weight: 400
+}
+
+.liste-companies{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex: 2 0 0;
+    margin-left: 100px;
+}
+svg{
+    opacity: 0.3;
+    margin: 5px 10px;
+}
+svg:hover{
+    opacity: 1;
+    fill: #00bfa5
+}
+.companies-logo{
+    margin: 8px -17px; 
+}

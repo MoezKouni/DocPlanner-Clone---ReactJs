@@ -1,0 +1,25 @@
+.img-country{
+    width: 94%
+}
+.row-countries{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-countries{
+    margin: 0px;
+}
+.one-card:hover{
+    box-shadow: 10px 10px 53px -9px rgba(0, 0, 0, 0.19);}
+.btnAndTitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: auto;
+    align-items: baseline;
+}
+
+.one-card{
+    border: none!important;
+    border-radius: 6px;
+    margin: 5px 0px;
+}

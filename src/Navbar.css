@@ -1,0 +1,12 @@
+.mr-auto{
+    margin: 0px!important;
+    
+}
+.main-nav-bar{
+    background-color: white!important;
+    margin: 0px 13%;
+}
+#basic-navbar-nav{
+    justify-content: flex-end;
+}
+

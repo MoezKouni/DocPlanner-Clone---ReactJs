@@ -1,0 +1,27 @@
+.row-stats{
+    margin-top: 13%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+    align-items: center;
+}
+.card-stats{
+    border: none!important;
+    border-radius: 6px;
+    margin: 5px 0px;
+    box-shadow: 1px 3px 1px 0px rgba(0, 0, 0, 0.129);
+}
+.paragraphe-cards{
+    font-size: 14px;
+    color: rgb(135, 133, 133);
+}
+h4{
+    color: #00bfa5
+}
+img{
+    margin: 10px;
+}
+.text-cards{
+    text-align: center;
+}

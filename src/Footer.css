@@ -1,0 +1,28 @@
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid rgb(221, 220, 220);
+}
+.footer-title{
+    color: blue;
+    font-weight: 300;
+    font-size: 13px;
+}
+span{
+    color: rgb(169, 165, 165);
+}
+.footer-paragraphe{
+    color: rgb(169, 165, 165);
+    font-size: 13px;
+    font-weight: 300;
+
+}
+.website{
+    color: rgb(169, 165, 165);
+    font-size: 14px;
+    font-weight: 400
+}

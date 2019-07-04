@@ -1,0 +1,12 @@
+.achievement{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.achievement-heading{
+    padding-top: 90px;
+}
+.achievement-paragraphe{
+    padding-top: 10px;
+    color: rgb(135, 133, 133);
+}
